@@ -21,10 +21,6 @@ public class TestGit {
         for (int i = 0; i < 10; i++) {
             System.out.println("Hello worrrrrrrrrld "+i);
         }
-        
-        if (true) {
-            System.out.println("a");
-        }
     }
     
 }
