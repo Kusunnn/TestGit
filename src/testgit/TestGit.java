@@ -17,6 +17,10 @@ public class TestGit {
         System.out.println("Hola Mundo");
         
         System.out.println("1+1 es 2");
+        
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Hello worrrrrrrrrld "+i);
+        }
     }
     
 }
